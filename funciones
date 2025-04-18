@@ -10,7 +10,6 @@ def division (a,b):
     else:
         return a/b
     
-
 while True:
 
     print("Bienvenido a la calculadora")
